@@ -1,0 +1,12 @@
+ol, p {
+	font-size: 18px;
+}
+
+header {
+	text-align: center;
+}
+
+body {
+	display: block;
+	background-color:RGB(224, 211, 168);
+}
